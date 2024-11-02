@@ -1,0 +1,134 @@
+*{
+    text-decoration: none;
+    overflow-x: hidden;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+body {
+    background-color: #472500;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.two {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-left: 20px;
+}
+
+.wael {
+    background-color: #68460ba5;
+    align-items: center;
+    text-align: center;
+    color: #ffffff;
+    padding: .5rem;
+    width: 14.5rem;
+    height: 16.9rem;
+    margin: 1.6rem;
+    border-radius: 10px;
+
+}
+
+.wael img {
+    height: 130px;
+    width: auto;
+    border-radius: 10px 10px 0 0;
+    align-items: center;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.wael h1 {
+    padding-bottom: 1rem;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.wael a {
+    background-color: #895e2c;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: #ffff;
+    padding: .8rem ;
+    padding-top: 1rem;
+    border-radius: 5px;
+    transition: .2s;
+}
+
+.wael a:hover {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: #b3b3b3;
+    background-color: #563611;
+}
+
+
+
+.salim {
+    background-color: #003b768a;
+    align-items: center;
+    text-align: center;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+    margin-top: 5rem;
+    padding: .5rem;
+    width: 14.5rem;
+    height: 16.9rem;
+    margin: 1.6rem;
+    border-radius: 10px;
+}
+
+.salim h1 {
+    padding-bottom: 1rem;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.salim img {
+    height: 130px;
+    width: auto;
+    border-radius: 10px 10px 0 0;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.salim a {
+    background-color: #17295f;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: #ffff;
+    padding: .8rem ;
+    border-radius: 5px;
+    transition: .2s;
+}
+
+.salim a:hover {
+    background-color: #142352;
+    color: #b3b3b3;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.back a{
+    color: #ffff;
+    background-color: #9b703e;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem 2.5rem 1rem 2.5rem;
+    border-radius: 2px;
+}

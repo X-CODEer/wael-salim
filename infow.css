@@ -1,0 +1,25 @@
+* {
+    text-align: center;
+    text-decoration: none;
+    padding-top: 1rem;
+}
+
+body {
+    background-color: #513607;
+}
+
+.form h3 {
+    color: #cecece;
+}
+
+.form h3 span {
+    color: #ffffff;
+}
+
+.btn a {
+    color: #ffffff;
+    background-color: #895e2c;
+    text-align: center;
+    align-items: center;
+    padding: 1rem 2rem;
+}

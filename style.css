@@ -1,0 +1,43 @@
+*{
+    text-decoration: none;
+    align-items: center;
+    text-align: center;
+}
+
+body {
+    background-color: #472500;
+    color: #fff;
+}
+
+.jme {
+    padding: 8rem 0;
+    font-size: 1.2rem;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.jme h2 {
+    padding-top: 20px;
+    font-size: 1.3rem;
+}
+
+.jme h5 {
+    font-weight: 100;
+    font-size: .8rem;
+    margin-top: 5px;
+    color: #ffffffb7;
+    padding-bottom: 1.9rem;
+}
+
+.jme a {
+    color: #f6f6f6;
+    background-color: #9b703e;
+    padding: 1rem 2rem 1rem 2rem;
+    border-radius: 2px;
+}
+
+.jme a:hover {
+    color: #f6f6f6d3;
+    background-color: #9b703eb7;
+}
