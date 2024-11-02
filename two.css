@@ -26,15 +26,15 @@ body {
     text-align: center;
     color: #ffffff;
     padding: .5rem;
-    width: 14.5rem;
-    height: 16.9rem;
+    width: 16rem;
+    height: 18rem;
     margin: 1.6rem;
     border-radius: 10px;
 
 }
 
 .wael img {
-    height: 130px;
+    height: 135px;
     width: auto;
     border-radius: 10px 10px 0 0;
     align-items: center;
@@ -82,8 +82,8 @@ body {
     color: #ffffff;
     margin-top: 5rem;
     padding: .5rem;
-    width: 14.5rem;
-    height: 16.9rem;
+    width: 16rem;
+    height: 18rem;
     margin: 1.6rem;
     border-radius: 10px;
 }
@@ -96,7 +96,7 @@ body {
 }
 
 .salim img {
-    height: 130px;
+    height: 135px;
     width: auto;
     border-radius: 10px 10px 0 0;
     text-align: center;
